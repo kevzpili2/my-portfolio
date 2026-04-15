@@ -261,7 +261,7 @@ export default function App() {
                   
                   <div className="absolute inset-0 rounded-[3rem] overflow-hidden border-8 border-white shadow-2xl z-20">
                     <img 
-                      src="/profile.jpg" 
+                      src={`${import.meta.env.BASE_URL}profile.jpg`} 
                       alt="Mark Kevin Pili" 
                       className="w-full h-full object-cover object-top hover:scale-110 transition-transform duration-1000 ease-out"
                     />
