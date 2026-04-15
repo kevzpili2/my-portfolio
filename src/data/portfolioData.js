@@ -5,7 +5,7 @@ export const portfolioData = {
     location: "Tanauan City College",
     graduation: "Batch 2023 - 2027",
     email: "markkevinpili22@gmail.com",
-    facebook: "https://facebook.com/kevinpili",
+    facebook: "https://www.facebook.com/kevin.pili.556977",
     whatsapp: "https://wa.me/639916969016",
     github: "https://github.com/kevzpili2",
     linkedin: "#",
